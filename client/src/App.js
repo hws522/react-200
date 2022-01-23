@@ -1,12 +1,12 @@
 import React from 'react';
-import Modal from './R048_ReactstrapModal'
+import Navbar from './R049_ReactstrapNavbar'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <Modal/>
+      <Navbar/>
     </div>
   );
 }
