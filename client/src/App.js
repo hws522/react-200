@@ -1,12 +1,12 @@
 import React from 'react';
-import Pagination from './R050_ReactstrapPagination'
+import Popover from './R051_ReactstrapPopover'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <Pagination/>
+      <Popover/>
     </div>
   );
 }
