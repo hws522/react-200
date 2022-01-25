@@ -1,12 +1,12 @@
 import React from 'react';
-import Progress from './R052_ReactstrapProgress'
+import ReactstrapSpinner from './R053_ReactstrapSpinner'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <Progress/>
+      <ReactstrapSpinner/>
     </div>
   );
 }
