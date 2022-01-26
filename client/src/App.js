@@ -1,12 +1,12 @@
 import React from 'react';
-import ReactstrapTable from './R054_ReactstrapTable'
+import ReactstrapTab from './R055_ReactstrapTab'
 import 'bootstrap/dist/css/bootstrap.css'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
-      <ReactstrapTable/>
+      <ReactstrapTab/>
     </div>
   );
 }
